@@ -1,6 +1,6 @@
 # Java Multithreading, Concurrency & Performance Optimization
 
-![Java](https://img.shields.io/badge/Java-11%2B-blue) ![Multithreading](https://img.shields.io/badge/Multithreading-Expert-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
+ ![Multithreading](https://img.shields.io/badge/Multithreading-Expert-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Overview
 This repository contains my personal notes, projects, and exercises from the **Java Multithreading, Concurrency & Performance Optimization** course by **Michael Pogrebinsky** on Udemy. It covers advanced Java techniques for building high-performance and responsive applications using multithreading and parallel programming.
